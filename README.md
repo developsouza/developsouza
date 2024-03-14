@@ -20,7 +20,7 @@
   <img align="center" alt="Gilney-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gilney-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Gilney-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">  
-  <img align="right" alt="Gilney-pic" height="150" style="border-radius:50px;" src="[https://instagram.fcpv16-1.fna.fbcdn.net/v/t51.2885-19/276106981_4854393174678161_3215709400104786326_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fcpv16-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=1_Egem7B1LsAX-R3zAi&tn=7MrHQPEXsZ3n7ciQ&edm=ALbqBD0BAAAA&ccb=7-4&oh=00_AT-28W8mFDpowmfthVbX79gYgg71VHsGXG_DcGHip9zYaQ&oe=623A4600&_nc_sid=9a90d6](https://scontent.cdninstagram.com/v/t51.2885-19/317485091_519061330142509_7453156289936867426_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent.cdninstagram.com&_nc_cat=101&_nc_ohc=TEXSLSzIg1EAX_17UWh&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfCsyAnlBeTEdctF0eq9bbdG0prj_3JIl3lF70TVJgnMIg&oe=65F79008&_nc_sid=10d13b)">
+  <img align="right" alt="Gilney-pic" height="150" style="border-radius:50px;" src="https://instagram.fcpv16-1.fna.fbcdn.net/v/t51.2885-19/276106981_4854393174678161_3215709400104786326_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fcpv16-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=1_Egem7B1LsAX-R3zAi&tn=7MrHQPEXsZ3n7ciQ&edm=ALbqBD0BAAAA&ccb=7-4&oh=00_AT-28W8mFDpowmfthVbX79gYgg71VHsGXG_DcGHip9zYaQ&oe=623A4600&_nc_sid=9a90d6">
 </div>
 
 ##
